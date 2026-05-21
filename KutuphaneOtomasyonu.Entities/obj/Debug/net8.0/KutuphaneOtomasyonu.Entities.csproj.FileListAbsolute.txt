@@ -1,0 +1,12 @@
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entities\bin\Debug\net8.0\KutuphaneOtomasyonu.Entities.deps.json
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entities\bin\Debug\net8.0\KutuphaneOtomasyonu.Entities.dll
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entities\bin\Debug\net8.0\KutuphaneOtomasyonu.Entities.pdb
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entities\obj\Debug\net8.0\KutuphaneOtomasyonu.Entities.csproj.AssemblyReference.cache
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entities\obj\Debug\net8.0\KutuphaneOtomasyonu.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entities\obj\Debug\net8.0\KutuphaneOtomasyonu.Entities.AssemblyInfoInputs.cache
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entities\obj\Debug\net8.0\KutuphaneOtomasyonu.Entities.AssemblyInfo.cs
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entities\obj\Debug\net8.0\KutuphaneOtomasyonu.Entities.csproj.CoreCompileInputs.cache
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entities\obj\Debug\net8.0\KutuphaneOtomasyonu.Entities.dll
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entities\obj\Debug\net8.0\refint\KutuphaneOtomasyonu.Entities.dll
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entities\obj\Debug\net8.0\KutuphaneOtomasyonu.Entities.pdb
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entities\obj\Debug\net8.0\ref\KutuphaneOtomasyonu.Entities.dll

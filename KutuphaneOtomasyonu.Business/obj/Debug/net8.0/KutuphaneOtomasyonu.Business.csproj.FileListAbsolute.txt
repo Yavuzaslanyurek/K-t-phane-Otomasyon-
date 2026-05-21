@@ -1,0 +1,17 @@
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\bin\Debug\net8.0\KutuphaneOtomasyonu.Business.deps.json
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\bin\Debug\net8.0\KutuphaneOtomasyonu.Business.dll
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\bin\Debug\net8.0\KutuphaneOtomasyonu.Business.pdb
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\bin\Debug\net8.0\KutuphaneOtomasyonu.DataAccess.dll
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\bin\Debug\net8.0\KutuphaneOtomasyonu.Entities.dll
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\bin\Debug\net8.0\KutuphaneOtomasyonu.DataAccess.pdb
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\bin\Debug\net8.0\KutuphaneOtomasyonu.Entities.pdb
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\obj\Debug\net8.0\KutuphaneOtomasyonu.Business.csproj.AssemblyReference.cache
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\obj\Debug\net8.0\KutuphaneOtomasyonu.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\obj\Debug\net8.0\KutuphaneOtomasyonu.Business.AssemblyInfoInputs.cache
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\obj\Debug\net8.0\KutuphaneOtomasyonu.Business.AssemblyInfo.cs
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\obj\Debug\net8.0\KutuphaneOtomasyonu.Business.csproj.CoreCompileInputs.cache
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\obj\Debug\net8.0\Kutuphan.371B56E9.Up2Date
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\obj\Debug\net8.0\KutuphaneOtomasyonu.Business.dll
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\obj\Debug\net8.0\refint\KutuphaneOtomasyonu.Business.dll
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\obj\Debug\net8.0\KutuphaneOtomasyonu.Business.pdb
+C:\Users\TeknoCenter\Desktop\projeler\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Business\obj\Debug\net8.0\ref\KutuphaneOtomasyonu.Business.dll
